@@ -2,7 +2,7 @@
 
 
 
-# Sayı Tahmin Oyunu
+# Sayı Tahmin Oyunu:
 
 Bu Flutter uygulaması, 3 basamaklı ve rakamları farklı bir sayıyı tahmin etmeye dayalı bir oyun sunar.
 Oyuncular sırayla tahmin yapar ve sistem, girilen tahminde kaç doğru rakam olduğunu belirtir. Oyuncuların belirli sayıda deneme hakkı vardır ve doğru tahmini ilk yapan kazanır.
